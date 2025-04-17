@@ -121,3 +121,11 @@ ul{
     padding-right: 10px;
     word-break: break-word;
   }
+
+  #list {
+    flex-grow: 1;
+    overflow-y: auto;
+    max-height: 60vh;
+    padding-right: 5px;
+  }
+  
